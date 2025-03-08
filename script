@@ -1,5 +1,5 @@
 local gameScripts = {
-    [15396672937] = "https://raw.githubusercontent.com/EnesXVC/remoteabusescripts/main/Survival-Disaster-Natural"
+    [15396672937] = "https://raw.githubusercontent.com/EnesXVC/remoteabusescripts/refs/heads/main/Survival-Disaster-Natural"
 }
 
 local scriptUrl = gameScripts[game.PlaceId]
